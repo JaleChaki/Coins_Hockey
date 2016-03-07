@@ -1,0 +1,12 @@
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\CH.exe.config
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\CH.ico
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\CH.exe
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\CH.pdb
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\Newtonsoft.Json.dll
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\bin\Release\Spinet.dll
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\coins hokke.csprojResolveAssemblyReference.cache
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\coins_hockey.Form1.resources
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\coins_hockey.Properties.Resources.resources
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\coins hokke.csproj.GenerateResource.Cache
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\CH.exe
+D:\Alexandr (Main Folder)\Codes\Coins_Hockey\Coins_Hockey\coins hokke\obj\x86\Release\CH.pdb
